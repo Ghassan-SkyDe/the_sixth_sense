@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Free Game",
-  description: "Free 2D guess game,developed by SkyDe",
+  description: "Free 2D guess game,developed by Ghassan-SkyDe",
 };
 
 export default function RootLayout({

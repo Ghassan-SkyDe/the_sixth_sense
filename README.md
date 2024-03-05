@@ -50,19 +50,6 @@ Live Demo : [DEMO](https://2d-free-game-skyde.netlify.app/)
 
 ## Preview
 
-**----------------------------------------- DESKTOP  ---------------------------------**
-
-<img src="https://github.com/Sky-De/the_sixth_sense/assets/79264045/df7ccfd3-69f0-4541-8f5f-443f1719fd22" width="80%">
-
-<img src="https://github.com/Sky-De/the_sixth_sense/assets/79264045/bd841a98-8a01-46d3-a806-757b8d893993" width="80%">
-
-
-**----------------------------------------- Mobile ------------------------------------**
-
-<img src="https://github.com/Sky-De/the_sixth_sense/assets/79264045/27380eb4-5450-4423-8196-5e882541ff52" width="270">
-<img src="https://github.com/Sky-De/the_sixth_sense/assets/79264045/53e12f28-bb51-4d34-9142-e3bfd359c7f2" width="270">
-<img src="https://github.com/Sky-De/the_sixth_sense/assets/79264045/49252596-6ae0-4e31-a517-caa0f86e1a6f" width="270">
-
 ![line]
 
 ## About
@@ -84,7 +71,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/the_sixth_sense
+git clone https://github.com/Ghassan-SkyDe/the_sixth_sense
 
 # Change directory
 cd directory
@@ -100,11 +87,7 @@ npm run dev
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
-**skyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
-
-[GitHub](https://github.com/Sky-De)
-
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[GitHub](https://github.com/Ghassan-SkyDe)
 

@@ -8,24 +8,10 @@ const page: FC = () => {
       <div className="social_media  p-4 flex gap-10 flex-col md:flex-row">
         <Link
           className="hover:rotate-[360deg] apply__contact--link"
-          href="https://github.com/Sky-De"
+          href="https://github.com/Ghassan-SkyDe"
           target="_blank"
         >
           <i className="bx bxl-github apply__contact--i"></i>
-        </Link>
-        <Link
-          className="hover:rotate-[-360deg] apply__contact--link"
-          href="mailto:sky_de1991@outlook.com"
-          target="_blank"
-        >
-          <i className="bx bxl-google apply__contact--i"></i>
-        </Link>
-        <Link
-          className="hover:rotate-[360deg] apply__contact--link"
-          href="https://www.linkedin.com/in/sky-de-763248228"
-          target="_blank"
-        >
-          <i className="bx bxl-linkedin-square apply__contact--i"></i>
         </Link>
       </div>
       <h2 className="capitalize text-xs text-center opacity-40">
